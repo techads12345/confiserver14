@@ -7,6 +7,9 @@ spring:
     show-sql: true
     hibernate:
       ddl-auto: update
+
+
+
 eureka:
   client:
     register-with-eureka: true
